@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<title>life quotes101|home</title>
+</head>
+<body>
+ <header>
+<nav>
+ <ul>
+ <li><a href="index.html">home</a></li>
+ <li><a href="apj_kalam.html">apj Abdul kalam</a></li>
+ <li><a href="kungfu_panda.html">kung fu panda</a></li>
+ <li><a href="Rabindranath.html">Rabindranath tagore</a></li>
+ <li><a href="Albert_Einstein.html">Albert Einstein</a></li>
+</ul>
+</nav
+</header>
+
+
+<main>
+
+<h1>APJ Abdul kalam</h1>
+<p>If You Want To Shine Like A Sun First Burn Like It</p>
+<p>dream is not what you see in sleep its what that does not let you sleep</p>
+
+
+
+<footer>
+<p>Copyright :urvija diaries</p>
+ </footer>
+</body>
+</html>
